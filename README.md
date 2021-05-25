@@ -1,16 +1,13 @@
-### Hi there 👋
+<!-- welcome message -->  
+<h2>Yo, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<!--
-**Tekks/Tekks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Glad to see you here!</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>⚡ My (Public) Dev Statistics</b>
+<!-- GitHub Stats -->  
+<p>  
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tekks&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=react" />
+<!-- Most Used Languages -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tekks&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=react"/>  
+</p>  
