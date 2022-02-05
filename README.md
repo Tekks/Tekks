@@ -3,7 +3,6 @@
 
 <h3>Glad to see you here!</h3>
 
-<b>⚡ My (Public) Dev Statistics</b>
 <!-- GitHub Stats -->  
 <p>  
 <!-- GitHub Stats -->  
